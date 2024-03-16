@@ -8,7 +8,7 @@ Solution 1: YOU CAN UPDATE VIA MICROSOFT STORE or install with winget. Run the .
 PS, the .bat will run on every startup, admin permission will come up, yes=if u want to use Samsung Notes, no=if you don't want to use it. If you accidentally click on no, just run the script yourself whenever you want.
 
 Download Link: -
-1) 
+1) https://github.com/yash733/MASK-System-as-SAMSUNG-NOTEBOOK/blob/main/GalaxyBookMask.no.startup.bat
 2) https://drive.google.com/file/d/1N2-EQF4X_Knv_a_wLkcEzQJoAqK_ZTA3/view
 3) https://github.com/kellwinr/galaxybook_mask
 
